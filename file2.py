@@ -1,2 +1,2 @@
 __author__ = 'Heinz'
-#dies ist noch ein Test
+#dies ist eine Änderung
